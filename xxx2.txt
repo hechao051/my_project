@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ﻿xxx2
 第二次合并xiangjuan xiugai
+=======
+xxx2
+第二次合并xxx
+>>>>>>> 58a45709351b27f64617c26a2744cb298e15b304
